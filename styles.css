@@ -82,4 +82,7 @@ img {
   .recipe {
       flex: 1 1 100%;
     }
+  .recipe-container{
+    margin-left: 0%;
+  }
 }
